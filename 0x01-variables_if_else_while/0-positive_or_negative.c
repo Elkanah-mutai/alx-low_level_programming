@@ -5,7 +5,7 @@
  * main - Entry point
  *
  * Return: return one of the 3 options
- * */
+ */
 int main(void)
 {
 	int n;
