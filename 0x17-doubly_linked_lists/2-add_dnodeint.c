@@ -8,8 +8,8 @@
  */
 dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 {
-	dlistint_t *new;
-	
+	dlistint_t *ne;
+
 	if (!head)
 		return (NULL);
 
